@@ -1,0 +1,21 @@
+{
+  "td_uri": "tcp://180.168.146.187:10202",
+  "md_uri": "tcp://180.168.146.187:10212",
+  "account_id": "160123",
+  "password": "df123456",
+  "broker_id": "9999",
+  "app_id":"simnow_client_test",
+  "auth_code":"0000000000000000",
+  "dbip": "47.100.92.10",
+  "dbname": "postgres",
+  "dbuser": "postgres",
+  "dbpassword": "admin123456",
+  "dbport": "5432",
+  "orderType":"ioc",
+  "tickData_file":"input/data",
+  "tickModelConfig_file":"input/modelConfig"
+  "mainContract_file":"input/sysConfig/mainContract.txt", 
+  "productInfo_file":"input/sysConfig/productInfo.txt" ,
+  "productExchange_file":"input/sysConfig/productExchange.txt"
+  
+}

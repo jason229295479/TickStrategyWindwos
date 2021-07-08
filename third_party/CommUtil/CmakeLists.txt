@@ -1,0 +1,5 @@
+set (PROJECT_NAME CommUtil)
+file(GLOB_RECURSE HEADER *.h *.hpp)
+file(GLOB_RECURSE SOURCE *.cpp)
+include(../lib.cmake)
+
